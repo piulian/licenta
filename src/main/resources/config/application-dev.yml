@@ -36,9 +36,9 @@ spring:
             indent-output: true
     datasource:
         type: com.zaxxer.hikari.HikariDataSource
-        url: jdbc:postgresql://localhost:5432/licenta
-        username: licenta
-        password:
+        url: jdbc:postgresql://localhost:5432/postgres
+        username: postgres
+        password: root
         hikari:
             auto-commit: false
     jpa:
