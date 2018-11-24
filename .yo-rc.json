@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "licenta"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "licenta",
+    "packageName": "licenta",
+    "packageFolder": "licenta",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZmZlYTM2OWYxNWE3Y2Q4OTU5NWYwNmY1MWQyZmU5OTFjYzgzMzlkNzY0MGM3NmQwYzk5ZWIzZTdjMjViOTZlNDY1OTBkYzg5ZDA0YTc4N2YyNDc1ZWYwYWM2ZTYyZjY0YTdjZjNkOWI0NzY5MzY3N2VjYWE1MTY0ODQxZTJjZTU=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
